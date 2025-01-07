@@ -12,7 +12,7 @@ import (
     "sync"
     "golang.org/x/net/html"
     "github.com/fatih/color"
-    "gopkg.in/pterm.v2"
+    "github.com/pterm/pterm"
 )
 
 func main() {
